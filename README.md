@@ -38,11 +38,11 @@ Saat menghitung premi, Anda akan diminta untuk memasukkan umur dan tingkat penya
 
 6) Halaman Admin
 Setelah login sebagai admin, Anda memiliki akses ke:
-Buat Data Premi Baru: Admin dapat menambah data premi untuk user.
-Lihat Semua Data Premi: Melihat semua data premi yang ada.
+Buat Data Premi Baru: admin dapat menambah data premi untuk user.
+Lihat Semua Data Premi: melihat semua data premi yang ada.
 Ubah Data Premi: Mengubah informasi premi yang sudah ada.
 Hapus Data Premi: Menghapus data premi yang tidak diperlukan.
-Keluar: Kembali ke menu utama.
+Keluar: kembali ke menu utama.
 
 7) PrettyTable
 Setiap kali Anda melihat data premi, data akan ditampilkan dalam format tabel menggunakan PrettyTable, dengan kolom seperti:
