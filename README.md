@@ -2,8 +2,10 @@ Nama: Yudha Tri Atmaja
 NIM: 2409116095 
 Kelas: C'2024
 
-![Screenshot 2024-10-15 004120](https://github.com/user-attachments/assets/ce44a4dc-7476-481f-98c4-58bdb66da9e7)
+![Screenshot 2024-10-15 003950](https://github.com/user-attachments/assets/eac02b82-f70c-4cd1-82fc-08fef34537c8)
 
-![Screenshot 2024-10-15 003950](https://github.com/user-attachments/assets/ccd6efec-8033-4552-bc2e-7dd07d48c7a2)
+![Screenshot 2024-10-15 004120](https://github.com/user-attachments/assets/9e970817-e357-49e4-b6dd-21ca2d50d88b)
 
-![flowchart minpro 2 drawio (4)](https://github.com/user-attachments/assets/a30ec78a-df89-4685-8734-da7f51726b22)
+
+![flow![Uploading Screenshot 2024-10-15 004120.png…]()
+chart minpro 2 drawio (4)](https://github.com/user-attachments/assets/a30ec78a-df89-4685-8734-da7f51726b22)
